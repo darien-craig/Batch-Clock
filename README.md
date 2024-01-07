@@ -1,4 +1,9 @@
-# Simple Clock
+# Batch Clock
+
+I have like 12 timers that I fire off at once when I start a loaf of bread.  This makes my clock app ugly.  As with most things: folders are the solution
+
+Original README below:
+
 <img alt="Logo" src="graphics/icon.png" width="120" />
 
 This clock app has multiple functions related to timing. It can be used as a clock widget or as a alarm clock. It is made to help you regulate your daily life and sleep better. You can also use the stopwatch in this app to count your time when you are running for healthy lifestyle or for any other purpose. This app can also be placed on your home screen for easy navigation.
@@ -31,8 +36,8 @@ https://www.reddit.com/r/SimpleMobileTools
 Telegram:  
 https://t.me/SimpleMobileTools
 
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.clock'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.clock'><img src='https://simplemobiletools.com/images/button-fdroid.svg' alt='Get it on F-Droid' height='45' /></a>
+<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.clock'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get the original on Google Play' height='45' /></a>
+<a href='https://f-droid.org/packages/com.simplemobiletools.clock'><img src='https://simplemobiletools.com/images/button-fdroid.svg' alt='Get the original on F-Droid' height='45' /></a>
 
 <div style="display:flex;">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
